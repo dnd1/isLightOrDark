@@ -1,6 +1,6 @@
 // This code was found: https://awik.io/determine-color-bright-dark-using-javascript/
 
-function islightOrDark(color) {
+export function islightOrDark(color) {
 
     // Variables for red, green, blue values
     var r, g, b, hsp;
