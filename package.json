@@ -1,0 +1,11 @@
+{
+  "name": "islightordark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Rodriguez del Villar <daniel@dnd1.com> (http://dnd1.com)",
+  "license": "ISC"
+}
